@@ -1,0 +1,5 @@
+﻿  2D_Reflection_Shader_Test.cpp
+E:\PROGRAMMING\기능반 강의 자료\2D_Reflection_Shader_Test\2D_Reflection_Shader_Test.cpp(14,13): warning C4189: 'result': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+E:\PROGRAMMING\기능반 강의 자료\2D_Reflection_Shader_Test\2D_Reflection_Shader_Test.cpp(215,66): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\PROGRAMMING\기능반 강의 자료\2D_Reflection_Shader_Test\2D_Reflection_Shader_Test.cpp(220,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2D_Reflection_Shader_Test_2010.vcxproj -> E:\PROGRAMMING\기능반 강의 자료\2D_Reflection_Shader_Test\Debug\2D_Reflection_Shader_Test.exe
